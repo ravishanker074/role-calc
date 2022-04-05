@@ -1,5 +1,5 @@
 {
-    "name": "role-calc",
+    "name": "@maa/role-calc",
     "version": "1.1.6",
     "description": "library to work with roles, contains calculation of times for the session, validation of required roles",
     "main": "dist/index.js",
