@@ -25,7 +25,7 @@
     ],
     "author": "Leonardo Rico Guevara - https://github.com/kevoj",
     "license": "MIT",
-    "engines": {
+    "_engines": {
         "node": "^6.2.2",
         "npm": "^3.9.5"
     },
